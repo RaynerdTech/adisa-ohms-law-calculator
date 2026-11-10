@@ -1,0 +1,11 @@
+# Generated Python caches and environment files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+*.log
+
+# Locally exported history; not part of the source repository
+voltlab_history.csv
